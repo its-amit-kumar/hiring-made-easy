@@ -1,4 +1,4 @@
-# hiring-made-easy
+# Hiring Made Easy
 
 ## Introduction
 
