@@ -20,8 +20,11 @@ There are 2 dashboards:
 In the admin dashboard, the interviewer gets the option to make a meeting, join a meeting and
 look for the meetings that he/she has attended. Personal Info can also be viewed.
 <img src = "https://github.com/its-amit-kumar/hiring-made-easy/blob/main/pics/3.jpeg">
+
 <img src = "https://github.com/its-amit-kumar/hiring-made-easy/blob/main/pics/4.jpeg">
+
 <img src = "https://github.com/its-amit-kumar/hiring-made-easy/blob/main/pics/6.jpeg">
+
 <img src = "https://github.com/its-amit-kumar/hiring-made-easy/blob/main/pics/7.jpeg">
 
 ### 2. Candidate Dashboard
@@ -30,8 +33,11 @@ This is an overview of the candidate dashboard, the candidate has one less optio
 create a meeting has been removed, a candidate can only join meetings and give interviews, apart
 from this, all the features are also available for 
 <img src = "https://github.com/its-amit-kumar/hiring-made-easy/blob/main/pics/10.jpeg">
+
 <img src = "https://github.com/its-amit-kumar/hiring-made-easy/blob/main/pics/11.jpeg">
+
 <img src = "https://github.com/its-amit-kumar/hiring-made-easy/blob/main/pics/8.jpeg">
+
 <img src = "https://github.com/its-amit-kumar/hiring-made-easy/blob/main/pics/9.jpeg">
 
 ## Creating a meeting
@@ -47,6 +53,7 @@ cretaed for the next one hour and you’ll be redirected to that particulat room
 #### The code editor provided is also realtime and is collaborative made using websockets
 
 <img src = "https://github.com/its-amit-kumar/hiring-made-easy/blob/main/pics/4.jpeg">
+
 <img src = "https://github.com/its-amit-kumar/hiring-made-easy/blob/main/pics/5.png">
 
 ## Joining a meeting
@@ -60,6 +67,7 @@ cretaed for the next one hour and you’ll be redirected to that particulat room
 
 
 <img src = "https://github.com/its-amit-kumar/hiring-made-easy/blob/main/pics/5.png">
+
 <img src = "https://github.com/its-amit-kumar/hiring-made-easy/blob/main/pics/11.jpeg">
 
 ## The Interview Page
