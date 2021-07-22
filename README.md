@@ -19,7 +19,7 @@ There are 2 dashboards:
 
 In the admin dashboard, the interviewer gets the option to make a meeting, join a meeting and
 look for the meetings that he/she has attended. Personal Info can also be viewed.
-<img src = "https://github.com/its-amit-kumar/hiring-made-easy/blob/main/pics/3.jpeg">
+<img src = "https://github.com/its-amit-kumar/hiring-made-easy/blob/main/pics/3.jpeg" style = "width : 50%; height : auto">
 
 <img src = "https://github.com/its-amit-kumar/hiring-made-easy/blob/main/pics/4.jpeg">
 
