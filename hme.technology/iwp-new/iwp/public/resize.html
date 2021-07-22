@@ -1,0 +1,52 @@
+<html>
+
+<head>
+    <title>Video Chat App</title>
+    <style>
+        .video{
+            border: 1px solid black;
+            height: 220px;
+            width: 400px;
+            overflow: hidden;
+            background-color: grey;
+            position: absolute;
+            bottom: 40;
+            right: 20;
+            z-index: 1;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="video" id="vi">
+        <iframe style="height: 95%; width: 180%; margin-top: 5%; position: relative; left: -40%;" src="index1.html?cid=1234" title="description"></iframe>
+    </div>
+</body>
+<script>
+    window.onload = addListeners;
+
+    function addListeners(){
+        document.getElementById('vi').addEventListener('mousedown', mouseDown, false);
+        window.addEventListener('mouseup', mouseUp, false);
+
+    }
+
+    function mouseUp()
+    {
+        window.removeEventListener('mousemove', divMove, true);
+    }
+
+    function mouseDown(e){
+    window.addEventListener('mousemove', divMove, true);
+    }
+
+    function divMove(e){
+        var div = document.getElementById('vi');
+    div.style.position = 'absolute';
+    div.style.top = e.clientY + 'px';
+    div.style.left = e.clientX + 'px';
+    }
+</script>
+
+
+</html>

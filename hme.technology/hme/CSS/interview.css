@@ -1,0 +1,51 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+.info{
+    background-color: black;
+    color: white;
+}
+.info h2{
+    padding: 10px;
+}
+
+.main-container {
+    height: 100vh;
+    width: 100%;
+    background-color: black;
+}
+.video {
+    height: 81.6vh;
+    width: 100%;
+    background-color: rgb(17, 16, 16);
+}
+.navlist{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 10vh;
+   
+    background-color: black;
+}
+.fa{
+    margin: 1em;
+    cursor: pointer;
+    color: white;
+}
+.fa-phone{
+    color: red;
+}
+.fa-stop-circle{
+    color: red;
+}
+#self{
+    position: fixed;
+   top: 70vh;
+    right: 0;
+
+}
+#btnStop{
+    display: none;
+}
+    
